@@ -1,17 +1,20 @@
 {
-  "name": "Korone IPA Source",
-  "identifier": "com.ibringdawubbz.korone",
+  "name": "Korone Repo",
+  "identifier": "com.ibringdawubbz.korone.repo",
   "apps": [
     {
-      "name": "Korone 2021",
+      "name": "Korone Twenty One",
       "bundleIdentifier": "com.ibringdawubbz.korone2021",
       "developerName": "IBringDaWubbz",
-      "version": "1.0.0",
-      "versionDate": "2026-07-04",
-      "downloadURL": "https://github.com/TrollMaster9000/Korone-2021-iPA/releases/download/v1.0.0/KoroneTwentyOne.ipa",
-      "localizedDescription": "Korone 2021 IPA",
-      "iconURL": "https://raw.githubusercontent.com/TrollMaster9000/Korone-2021-iPA/main/icon.jpg",
-      "size": 0
+      "iconURL": "https://raw.githubusercontent.com/IBringDaWubbz/Korone-2021-iPA/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-04",
+          "downloadURL": "https://github.com/IBringDaWubbz/Korone-2021-iPA/releases/download/v1.0.0/KoroneTwentyOne.ipa",
+          "localizedDescription": "Korone Twenty One IPA for SideStore"
+        }
+      ]
     }
   ]
 }
